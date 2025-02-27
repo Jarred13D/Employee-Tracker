@@ -1,0 +1,34 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Command-line application to manage a company's employee database, using Node.js, Inquirer and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarred13D/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jarred13D/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Jarred13D/Employee-Tracker#readme",
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.4.2",
+    "pg": "^8.13.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/pg": "^8.11.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
