@@ -68,6 +68,8 @@ To start the application, use the following command:
 
 ### Walkthrough Guide
 
+https://app.screencastify.com/v3/watch/k8AYs88O0sGTrnLSGEwS
+
 ### Contributing
 
 Contributions are welcome! If you find a bug or have an enhancement idea, please open an issue or submit a pull request.
